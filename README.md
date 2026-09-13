@@ -479,7 +479,7 @@ Conversational AI bot application engineered with TypeScript and structured LLM 
 
 ## 🎯 Current Focus
 
-```yaml
+yaml
 Current Focus:
   Academic: "1st Year B.Tech Computer Science / AI / ML Coursework"
   Learning: "Advanced Jetpack Compose Optimizations & Core DSA"
@@ -572,7 +572,7 @@ Conversational AI bot application engineered with TypeScript and structured LLM 
 
 ## 🎯 Current Focus
 
-```yaml
+
 Current Focus:
   Academic: "1st Year B.Tech Computer Science / AI / ML Coursework"
   Learning: "Advanced Jetpack Compose Optimizations & Core DSA"
